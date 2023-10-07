@@ -1,0 +1,33 @@
+{
+  "MN": "Jurassic World",
+  "RY": 2015,
+  "RG": "Colin Trevorrow",
+  "PI": "IMAGE",
+  "CG": "Science Fiction",
+  "EPS": [
+    {
+      "EPS_Name": "HALQA 1",
+      "QA": "360",
+      "QB": "720",
+      "QC": "360"
+    },
+    {
+      "EPS_Name": "HALQA 2",
+      "QA": "360",
+      "QB": "720",
+      "QC": "360"
+    },
+    {
+      "EPS_Name": "HALQA 3",
+      "QA": "360",
+      "QB": "720",
+      "QC": "360"
+    },
+    {
+      "EPS_Name": "HALQA 4",
+      "QA": "360",
+      "QB": "720",
+      "QC": "360"
+    }
+  ]
+}
