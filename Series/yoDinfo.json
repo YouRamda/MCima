@@ -5,29 +5,11 @@
   "PI": "IMAGE",
   "CG": "Science Fiction",
   "EPS": [
-    {
-      "EPS_Name": "HALQA 1",
-      "QA": "360",
-      "QB": "720",
-      "QC": "360"
-    },
-    {
-      "EPS_Name": "HALQA 2",
-      "QA": "360",
-      "QB": "720",
-      "QC": "360"
-    },
-    {
-      "EPS_Name": "HALQA 3",
-      "QA": "360",
-      "QB": "720",
-      "QC": "360"
-    },
-    {
-      "EPS_Name": "HALQA 4",
-      "QA": "360",
-      "QB": "720",
-      "QC": "360"
-    }
+  {
+    "NaMo": "الجزء الرابع كامل",
+    "ThuUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4I4yzendUjqmgzod5B8ZPHL60eKstrWZIrV-6oWMP0MAzt3Em0B99mj9-yAG3lzc3OG6qiuwhGg0zLzBn32gEMDfQ3OkgztcE3ipf9pA8WEBU3kIoC0YWUL78TswL7_9NFJJVIguRNMQ6JW5k37flcW_iP3zoPFa0lAtNbxw3hBl6QYt-CcAeBSbv1A/s1280/1304976.webp",
+    "Q1": "https://upbaam.com/yii6bt9yai6g/J.W.C.4.2023.720p.HDCAM.Wecima.tube.mp4.html?Key=bgCEi230Qo56KbsY5ofrXQ&Expires=1680141928",
+    "HD": "https://www.whatsapp.com/download/"
+   }
   ]
 }
